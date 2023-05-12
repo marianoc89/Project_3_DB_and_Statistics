@@ -90,21 +90,21 @@ The pipeline of this project had the following phases:
 ***
 1. View the Database relation and connection of each table in Futbol Scheme (MySQL):
 
-![Alt text](SQL\Futbol_Database_Scheme.png)
+![Alt text](SQL/Futbol_Database_Scheme.png)
 
 2. Quering which is the current Rank of River plate in the League:
 
-![Alt text](SQL\SQL_league_results_table.jpg)
+![Alt text](SQL/SQL_league_results_table.jpg)
 
 - We can clearly see that by the time this report was performed, River Plate was standing 1st with 11 Victories out of 14 match played, giving us a winning accuracy of 0.7857 (78.57%) which after applying a Poisson distribution to determine the probability of winning 1 match, gives us 0.3581 (35.81%).
 
 3. By quering the upcoming histrical table, we can have a view of the latest results from past macthes to be able to determine the probaibiliy of beating them based on this histrical data:
 
-![Alt text](SQL\SQL_historical_results_table.jpg)
+![Alt text](SQL/SQL_historical_results_table.jpg)
 
 The next upcoming match is the biggest classic matches in Argentina, River Plate vs Boca Juniors:
 
-![Alt text](images\match_1_graph.jpg)
+![Alt text](images/match_1_graph.jpg)
 
 
 - After running a 10,000 times simulation on Poisson based on these historical results, we can determine the pobability of each team scoring and based on the outcome of those goals, the probability of each winning.
@@ -115,9 +115,9 @@ The next upcoming match is the biggest classic matches in Argentina, River Plate
 - Talleres (Córdoba) vs River Plate
 - River Plate vs Platense
 
-![Alt text](images\match_2_graph.jpg)
+![Alt text](images/match_2_graph.jpg)
 
-![Alt text](images\match_3_graph.jpg)
+![Alt text](images/match_3_graph.jpg)
 
 - In both cases, as well as in the 1st match previously visualized, we can see that the scoring probability is pretty close one to the other. In the 3rd match we can have a better estimation of a potential clear victory from River Plate (but no certanties as we should also consider many other variables, but focusing only at golas and results)
 
