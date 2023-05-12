@@ -1,0 +1,36 @@
+Nombre,Posición,Edad,Estatura (cm),Peso (kg),Nacionalidad,Apariciones,Apariciones_Sustituto,Goles,Asistencias,Tiros,Tiros_Meta,Faltas_cometidas,Faltas_sufridas,Tarjetas_amarillas,Tarjetas_Rojas
+Robert Rojas  2,Defensor,27,178,73,Paraguay,6,2,0,0,1,0,2,3,0,0
+Jonathan Maidana  4,Defensor,37,188,78,Argentina,5,1,0,0,4,2,5,0,1,0
+Héctor Martínez  6,Defensor,25,18,82,Paraguay,0,0,0,0,0,0,0,0,0,0
+Enzo Díaz  13,Defensor,27,175,63,Argentina,12,0,0,1,5,0,20,21,5,0
+Leandro González Pirez  14,Defensor,31,185,88,Argentina,10,0,1,0,4,2,8,8,2,0
+Marcelo Herrera  15,Defensor,24,175,73,Argentina,6,2,0,0,6,1,7,1,1,0
+Paulo Díaz  17,Defensor,28,175,72,Chile,7,1,0,0,0,0,3,0,1,0
+Milton Casco  20,Defensor,35,17,68,Argentina,13,1,0,3,5,0,7,9,2,0
+Emanuel Mammana  23,Defensor,27,183,68,Argentina,4,1,0,0,1,0,2,0,0,0
+Elias Gomez  30,Defensor,28,18,82,Argentina,1,0,0,0,1,1,0,2,0,0
+Tomas Lecanda  38,Defensor,21,18,72,Argentina,0,0,0,0,0,0,0,0,0,0
+Ulises Giménez  42,Defensor,17,178,76,Argentina,0,0,0,0,0,0,0,0,0,0
+Daniel Zabala  44,Defensor,20,183,78,Argentina,0,0,0,0,0,0,0,0,0,0
+Bruno Zuculini  5,Mediocampo,30,183,73,Argentina,1,1,0,0,0,0,0,0,0,0
+Agustín Palavecino  8,Mediocampo,26,178,73,Argentina,12,10,1,0,18,5,14,8,2,0
+Ignacio Fernández  10,Mediocampo,33,183,67,Argentina,24,6,3,1,31,10,19,54,4,1
+Nicolás de la Cruz  11,Mediocampo,25,168,63,Uruguay,6,1,0,0,11,3,7,14,0,0
+Ezequiel Barco  21,Mediocampo,24,163,67,Argentina,14,8,4,2,15,4,5,19,1,0
+Matías Kranevitter  22,Mediocampo,29,178,73,Argentina,0,0,0,0,0,0,0,0,0,0
+Enzo Pérez  24,Mediocampo,37,178,77,Argentina,12,0,0,1,4,1,13,16,5,0
+José Paradela  26,Mediocampo,24,18,73,Argentina,14,3,2,1,26,7,11,18,2,1
+Rodrigo Aliendro  29,Mediocampo,32,178,73,Argentina,11,1,1,1,18,5,10,9,2,0
+Santiago Simon  31,Mediocampo,20,178,72,Argentina,4,3,0,0,0,0,3,0,0,0
+Franco Alfonso  35,Mediocampo,20,165,59,Argentina,3,3,0,0,1,0,1,2,0,0
+Pablo Solari  36,Mediocampo,22,18,78,Argentina,9,3,2,2,15,6,8,4,3,0
+Claudio Echeverri  43,Mediocampo,17,17,62,Argentina,0,0,0,0,0,0,0,0,0,0
+Sebastián Sánchez  45,Mediocampo,21,173,68,Argentina,0,0,0,0,0,0,0,0,0,0
+Esteban Fernández  46,Mediocampo,21,173,58,Argentina,0,0,0,0,0,0,0,0,0,0
+Matías Gallardo  47,Mediocampo,19,175,71,Argentina,0,0,0,0,0,0,0,0,0,0
+Joaquín Flores  48,Mediocampo,17,168,73,Argentina,0,0,0,0,0,0,0,0,0,0
+Matías Suárez  7,Ataque,34,183,73,Argentina,5,5,1,0,3,2,0,1,0,0
+Miguel Borja  9,Ataque,30,183,87,Colombia,12,6,2,1,18,6,6,6,2,0
+Lucas Beltran  18,Ataque,22,175,73,Argentina,13,6,5,1,21,12,7,8,0,0
+Salomón Rondón  25,Ataque,33,185,86,Venezuela,12,7,2,0,20,7,8,6,1,0
+Tomás Castro Ponce  34,Ataque,22,183,73,Argentina,0,0,0,0,0,0,0,0,0,0
