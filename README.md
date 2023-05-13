@@ -127,7 +127,7 @@ The next upcoming match is the biggest classic matches in Argentina, River Plate
 
 ![Alt text](images/goals_age_graph.jpg)
 
-- Even tough Matias Suarez had a very little amout of games played this season (due to an injury) he is the most effective player with 1 goal scored out of 6 matches played.
+- Even though Matias Suarez had a very little amout of games played this season (due to an injury) he is the most effective player with 1 goal scored out of 6 matches played.
 On the other hand, in the second graph we can clearly see that most of the goles scored were made by younger players and the current age mean is 28.27 with a scoring mean of 2.18.
 
 6. Identifying the liklihood of a player making a foul and the card conversion rate:
@@ -142,7 +142,7 @@ On the other hand, in the second graph we can clearly see that most of the goles
 Based on the hypothesis of this project and after analyzing the data and visualizing the results, we can conclude the following:
 - River is standing 1st in the League with a great performance and good probabilities of winning matches.
 - The next 3 upcoming matches will be tough and complicated, but there are good trends in the past and in the current results to have good hopes of winning.
-- Even tough Matias Suares is not fully recovered, in case he feels good to play, the probabiliy of him scoring a goal and achieving a positive outcome is quiet good these days.
+- Even though Matias Suares is not fully recovered, in case he feels good to play, the probabiliy of him scoring a goal and achieving a positive outcome is quiet good these days.
 - There are some players that will need to be extra careful in the upcoming matches and behave better to avoid furhter penalizations and potential bans for upcoming games (mainly Enzo Díaz).
 
 <p align="center">
